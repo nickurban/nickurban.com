@@ -26,4 +26,19 @@ a:visited {
   color: #b83000;
 }
 
+$screen_sm_min: 768px;
+$screen_md_min: 992px;
+$screen_lg_min: 1200px;
+
+
+@media (max-width: $screen_sm_min) { 
+  h1 { font-size: 30px; }
+}
+
+@media (min-width: $screen_sm_min) and (max-width: $screen_md_min) {  
+  h1 { font-size: 50px; }
+}
+
+@media (min-width: $screen_lg_min) {  }
+
 
