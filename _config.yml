@@ -8,10 +8,10 @@ permalinks: pretty
 markdown: redcarpet
 pygments: true
 
-#asset_pipeline:
-#  bundle: true
-#  compress: true
-#  output_path: assets
-#  display_path: nil
-#  gzip: false
+asset_pipeline:
+  bundle: true            # Default = true
+  compress: true          # Default = true
+  output_path: assets     # Default = assets
+  display_path: nil       # Default = nil
+  gzip: false             # Default = false
 
