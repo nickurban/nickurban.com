@@ -1,9 +1,26 @@
 body {
-  font-family: 'Merriweather', serif;
+  //font-family: 'Merriweather', serif;
+  font-family: 'Baskerville', 'Libre Baskerville', serif;
+  font-size: 18px;
 }
 
 h1, h2, h3, h4, h5, h6,
 strong, b {
   font-weight: 700;
+}
+
+
+h1 {
+  font-size: 80px;
+  font-weight: normal;
+  text-transform: lowercase;
+}
+h2.small {
+  font-size: 18px;
+}
+
+p,
+li {
+  font-size: 20px;
 }
 

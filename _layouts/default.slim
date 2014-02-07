@@ -10,11 +10,12 @@ html lang="en"
     | {% include assets.html %}
 
   body
-    .wrap.container-fluid
+    .wrap.container
       header
         h1.title
-          a href="/"
-          | {{ site.name }}
+          a.img-responsive href="/"
+            | {{ site.name }}
+        | {% slim nav.slim %}
 
       main
         | {{ content }}
