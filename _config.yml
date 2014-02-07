@@ -1,3 +1,9 @@
-name: Your New Jekyll Site
+name: nickurban.com
+description: ''
+
+#url: ''
+#paginate: 10
+permalinks: pretty
+
 markdown: redcarpet
 pygments: true
