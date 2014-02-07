@@ -1,0 +1,19 @@
+doctype html
+
+html
+  head
+    meta charset="utf8"
+    meta name="viewport" content="width=device-width"
+    title | {{ page.title }}
+  body
+    .site
+      header
+        h1.title
+          a href="/"
+          | {{ site.name }}
+      main
+      | {{ content }}
+
+      footer
+        | &copy; 2014 Nick Urban
+
