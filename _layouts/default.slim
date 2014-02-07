@@ -4,7 +4,8 @@ html lang="en"
   head
     meta charset="utf8"
     meta name="viewport" content="width=device-width, initial-scale=1"
-    title | {{ page.title }}
+    title
+      | {{ page.title }}
 
     | {% include assets.html %}
 
@@ -16,12 +17,7 @@ html lang="en"
           | {{ site.name }}
 
       main
-        .row
-          .col-sm-3
-            | Left Col
-          .col-sm-9
-            | Main
-            | {{ content }}
+        | {{ content }}
 
       footer
         | &copy; 2014 Nick Urban
