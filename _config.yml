@@ -21,7 +21,8 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart, autolink]
 
-permalink: '/blog/:categories/:title/'
+#permalink: '/blog/:categories/:title/'
+permalink: '/blog/:title/'
 category_dir: 'blog'
 category_title_prefix: ''
 
