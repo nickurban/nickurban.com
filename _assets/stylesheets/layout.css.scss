@@ -1,6 +1,11 @@
+$main_color: #333;
+
+body {
+}
+
 h1 a {
   line-height: 90px;
-  border-left: 30px solid black;
+  border-left: 30px solid $main_color;
   font-weight: 400;
   padding-left: 30px;
 
@@ -9,23 +14,13 @@ h1 a {
   &:active,
   &:hover,
   &:visited {
-    color: black;
+    color: $main_color;
     text-transform: none;
   }
 }
 
 header {
   margin-bottom: 24px;
-
-  #topnav li {
-    padding-left: 10px;
-    border-left: 2px solid black;
-
-    &.home {
-      border-left: none;
-      padding-left: 0;
-    }
-  }
 }
 
 h2.small {
@@ -52,3 +47,21 @@ a:visited {
 li {
   padding-bottom: 4px;
 }
+
+#category_index {
+  h1 {
+    text-transform: capitalize;
+  }
+}
+
+#topnav li {
+  padding-left: 10px;
+  border-left: 2px solid $main_color;
+  text-transform: capitalize;
+
+  &.home {
+    border-left: none;
+    padding-left: 0;
+  }
+}
+
