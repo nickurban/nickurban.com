@@ -9,12 +9,16 @@ strong, b {
   font-weight: 700;
 }
 
-
 h1 {
+  font-size: 40px;
+}
+
+h1.jumbo {
   font-size: 80px;
   font-weight: normal;
   text-transform: lowercase;
 }
+h2 { font-size: 40px; }
 h2.small {
   font-size: 18px;
 }
@@ -24,3 +28,18 @@ li {
   font-size: 20px;
 }
 
+@import '_assets/stylesheets/media_sizes';
+
+@media (min-width: $screen_lg_min) {  }
+
+@media (min-width: $screen_sm_min) and (max-width: $screen_md_min) {
+  h1.jumbo { font-size: 50px; }
+  h1 { font-size: 30px; }
+  h2 { font-size: 20px; }
+}
+
+@media (max-width: $screen_sm_min) {
+  h1.jumbo { font-size: 30px; }
+  h1 { font-size: 20px; }
+  h2 { font-size: 16px; }
+}
