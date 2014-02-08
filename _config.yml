@@ -3,9 +3,7 @@ description: ''
 
 #url: ''
 #paginate: 10
-permalinks: pretty
 
-markdown: redcarpet
 pygments: true
 
 asset_pipeline:
@@ -16,5 +14,14 @@ asset_pipeline:
   gzip: false             # Default = false
 
 exclude: [Gemfile, Gemfile.lock]
-
 timezone: America/New_York
+
+#markdown: redcarpet
+markdown: rdiscount
+rdiscount:
+  extensions: [smart, autolink]
+
+permalink: '/blog/:categories/:title/'
+category_dir: 'blog'
+category_title_prefix: ''
+
