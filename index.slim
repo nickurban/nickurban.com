@@ -5,7 +5,9 @@ title: nickurban.com - Nick Urban, software engineer, programmer, consultant, ph
 
 #home
   section#bio
-    p Hi, I’m Nick. I’m a software engineer, consultant, and attempted renaissance man. I like things that are richly human and hard to quantify.
+    p Hi, I’m Nick. I’m a software engineer, consultant, and aspiring renaissance man. 
+    
+    p I like things that are richly human and hard to quantify.
 
     p My greatest influences have been philosophy, literature, and meditation – as well as the DIY culture of entrepreneurs and hackers.
 
@@ -27,13 +29,16 @@ title: nickurban.com - Nick Urban, software engineer, programmer, consultant, ph
 
 
   section#recent_posts
-    h2.small Recent Posts
+    h2.small 
+      ' Recent Posts
+      span.all-posts
+        |  <a href='/blog'>(All posts)</a>
+
     ul
       | {% for post in site.posts offset: 0 limit: 5 %}
       |   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       | {% endfor %}
   
-    a href='/blog' All posts
 
   section#other_interests
     h2.small Other Interests
