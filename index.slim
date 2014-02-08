@@ -26,6 +26,15 @@ title: nickurban.com - Nick Urban, software engineer, programmer, consultant, ph
       | <li>Defended a master's thesis on philosophy of technology at <a target=_blank href='http://www.stjohnscollege.edu'>St. John's College</a></li>
 
 
+  section#recent_posts
+    h2.small Recent Posts
+    ul
+      | {% for post in site.posts offset: 0 limit: 5 %}
+      |   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      | {% endfor %}
+  
+    a href='/blog' All posts
+
   section#other_interests
     h2.small Other Interests
     p Singing, writing, nutrition, fitness, design, travel, personal finance
