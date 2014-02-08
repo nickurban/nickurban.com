@@ -1,9 +1,8 @@
 h1 a {
-  line-height: 1.1;
+  line-height: 90px;
   border-left: 30px solid black;
   font-weight: 400;
   padding-left: 30px;
-  margin: 50px 0;
 
   &,
   &:link,
@@ -12,6 +11,20 @@ h1 a {
   &:visited {
     color: black;
     text-transform: none;
+  }
+}
+
+header {
+  margin-bottom: 24px;
+
+  #topnav li {
+    padding-left: 10px;
+    border-left: 2px solid black;
+
+    &.home {
+      border-left: none;
+      padding-left: 0;
+    }
   }
 }
 

@@ -18,9 +18,11 @@ h1.jumbo {
   font-weight: normal;
   text-transform: lowercase;
 }
-h2 { font-size: 40px; }
-h2.small {
-  font-size: 18px;
+h2 { 
+  font-size: 30px; 
+  &.small { 
+    font-size: 18px;
+  }
 }
 
 p,
