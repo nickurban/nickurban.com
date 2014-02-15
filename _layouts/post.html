@@ -6,6 +6,17 @@ layout: default
   <header>
     <h2>{{ page.title }}</h2>
 
+    <div class="date">
+      Published on {{ page.date | date_to_string }}
+    </div>
+
+    <section class='categories'>
+    {% if page.categories.size > 0 %}
+      Categories:
+      {{ page.categories | category_links }}
+    {% endif %}
+    </section>
+
     <!--
     {% if page.categories.size > 0 %}
       <p class='categories'>
@@ -26,7 +37,6 @@ layout: default
     {% endif %}
     -->
 
-    <p class="date">{{ page.date | date_to_string }}</p>
    </header>
 
    <main>
