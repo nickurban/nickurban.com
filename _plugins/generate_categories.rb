@@ -213,15 +213,31 @@ module Jekyll
         "<a class='category' href='#{category_dir}/'>#{category}</a>"
       end
 
-      case categories.length
-      when 0
-        ""
-      when 1
-        categories[0].to_s
-      else
-        categories.join(', ')
+      categories.join(', ')
+    end
+
+    def site_category_list(categories_hash)
+      base_dir = @context.registers[:site].config['category_dir']
+      categories = categories_hash.keys.sort
+
+      categories.map do |category|
+        category_dir = GenerateCategories.category_dir(base_dir, category)
+        category_dir = "/#{category_dir}" unless category_dir =~ /^\//
+        "<li><a class='category' href='#{category_dir}/'>#{category}</a></li>"
       end
     end
+
+    def site_category_links(categories_hash)
+      base_dir = @context.registers[:site].config['category_dir']
+      categories = categories_hash.keys.sort
+
+      categories.map do |category|
+        category_dir = GenerateCategories.category_dir(base_dir, category)
+        category_dir = "/#{category_dir}" unless category_dir =~ /^\//
+        "<a href='#{category_dir}/'>#{category}</a>"
+      end.join(', ')
+    end
+
 
     # Outputs the post.date as formatted html, with hooks for CSS styling.
     #
