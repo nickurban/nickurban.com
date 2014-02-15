@@ -3,7 +3,7 @@ $main_color: #333;
 body {
 }
 
-h1 a {
+#site_header h1 a {
   line-height: 90px;
   border-left: 30px solid $main_color;
   padding-left: 30px;
@@ -20,6 +20,10 @@ h1 a {
 
 header {
   margin-bottom: 24px;
+}
+
+h1 small { 
+  color: $main_color;
 }
 
 h2.small {
