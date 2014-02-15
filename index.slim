@@ -27,18 +27,7 @@ title: nickurban.com - Nick Urban, software engineer, programmer, consultant, ph
       | <li>Learned Spanish while living and working in Argentina</li>
       | <li>Defended a master's thesis on philosophy of technology at <a target=_blank href='http://www.stjohnscollege.edu'>St. John's College</a></li>
 
-
-  section#recent_posts
-    h2.small 
-      ' Recent Posts
-      span.all-posts
-        |  <a href='/blog'>(All posts)</a>
-
-    ul
-      | {% for post in site.posts offset: 0 limit: 5 %}
-      |   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      | {% endfor %}
-  
+  {% include recent_posts.slim %}
 
   section#other_interests
     h2.small Other Interests

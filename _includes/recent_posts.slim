@@ -1,0 +1,16 @@
+section#recent_posts
+  h2.small
+    ' Recent Posts
+    span.all-posts
+      |  <a href='/blog'>(All posts)</a>
+
+  ul
+    | {% for post in site.posts offset: 0 limit: 5 %}
+    |   <li>
+    |     <a href="{{ post.url }}">
+    |       {{ post.title }}
+    |     </a>
+    |     ({{ post.categories[0] }})
+    |   </li>
+    | {% endfor %}
+
