@@ -26,6 +26,6 @@ rdiscount:
 
 #permalink: '/blog/:categories/:title/'
 permalink: '/blog/:title/'
-category_dir: 'blog'
+category_dir: 'blog/categories'
 category_title_prefix: ''
 
