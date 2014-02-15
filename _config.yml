@@ -19,7 +19,10 @@ timezone: America/New_York
 #markdown: redcarpet
 markdown: rdiscount
 rdiscount:
-  extensions: [smart, autolink]
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # footnotes
+    - smart         # typographic substitutions with SmartyPants
 
 #permalink: '/blog/:categories/:title/'
 permalink: '/blog/:title/'
