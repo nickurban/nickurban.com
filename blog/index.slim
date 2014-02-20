@@ -4,8 +4,7 @@ title: nickurban.com
 ---
 
 #blog
-  p 
-    | (view by category: {{ site.categories | site_category_links }})
+  {% include categories.slim %}
 
   h1 Blog
   ul.posts
