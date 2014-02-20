@@ -1,5 +1,7 @@
 $main_color: #333;
 
+@import '_assets/stylesheets/media_sizes';
+
 body {
 }
 
@@ -16,6 +18,13 @@ body {
     color: $main_color;
     text-transform: none;
   }
+
+  @media (max-width: $screen_sm_min) {
+    padding-left: 18px;
+    border-left: 25px solid $main_color;
+    font-weight: normal;
+  }
+
 }
 
 header {
