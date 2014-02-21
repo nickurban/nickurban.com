@@ -2,6 +2,7 @@
 layout: post
 categories: news
 title: Now Blogging with Jekyll
+date: 2014-02-20
 ---
 
 In anticipation of posting here about consulting, programming, Buddhism,
