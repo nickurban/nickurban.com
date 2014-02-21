@@ -13,7 +13,7 @@ asset_pipeline:
   display_path: nil       # Default = nil
   gzip: false             # Default = false
 
-exclude: [Gemfile, Gemfile.lock]
+exclude: [Gemfile, Gemfile.lock, Rakefile]
 timezone: America/New_York
 
 #markdown: redcarpet
