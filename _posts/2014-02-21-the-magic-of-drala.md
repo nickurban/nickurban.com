@@ -47,6 +47,8 @@ but they are not meant to be articles of faith.
 They are described as a raft which carries one across the river of life.
 "Gone... gone to the other shore" as the [Heart Sutra] says.
 Once one reaches the shore, to carry the raft further would be a hindrance.
+Instead of focusing on the teachings, which are ultimately just another narrative, 
+one dwells directly in elemental reality.
 
 
 [^1]: [Shambhala: The Sacred Path of the Warrior](http://www.amazon.com/Shambhala-Sacred-Path-Warrior-Classics/dp/159030702X/), 1984, Shambhala Publications, p. 103
