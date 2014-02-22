@@ -23,12 +23,15 @@ body {
     padding-left: 18px;
     border-left: 25px solid $main_color;
     font-weight: normal;
+    line-height: 40px;
+    border-left: 0;
+    padding-left: 0;
   }
 
 }
 
 header {
-  margin-bottom: 24px;
+  margin-bottom: 20px;
 }
 
 h1 small { 
@@ -40,8 +43,13 @@ h2.small {
 }
 
 p {
-  padding: 5px 0;
-  line-height: 30px;
+  padding: 8px 0;
+  margin-bottom: 0;
+  line-height: 1.5;
+
+  @media (max-width: $screen_sm_min) {
+    line-height: 1.4;
+  }
 }
 
 footer {
@@ -54,6 +62,11 @@ a,
 a:hover,
 a:visited {
   color: #b83000;
+}
+
+@media (max-width: $screen_sm_min) {
+  ul { padding-left: 20px; }
+  ol { padding-left: 28px; }
 }
 
 li {
@@ -82,3 +95,4 @@ li {
     margin-top: 5px;
   }
 }
+
