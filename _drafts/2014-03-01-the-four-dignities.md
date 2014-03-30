@@ -1,60 +1,82 @@
 ---
 layout: post
 title: The Four Dignities of Shambhala
-date: 2014-03-01
+date: 2014-03-23
 categories: dharma
 tags: shambhala
 ---
 
-This post is one in a series about the Shambhala teachings presented in Chogyam Trungpa's 
-[Shambhala: The Sacred Path of the Warrior]. In my previous post I talked about the concept of *[drala]*. 
+<div class='alert alert-info'>
+  This post is one in a series about the Shambhala teachings presented by Chogyam Trungpa.
+  <br>
+  In the previous post, I discussed the concept of 
+  <em><a href='/2014-02-21-the-magic-of-drala'>drala</a></em>, 
+  or elemental reality. 
+</div>
 
-Today I will discuss the "four dignities" of warriorship: *meek*, *perky*, *outrageous*, and *inscruitable*. 
+In the symbolism of Shambhala, four animals appear over and over again. 
+Each represents one of the "four dignities" or noble attributes of the warrior. 
+The four dignities are one metaphor by which Trungpa identified the 
+awake and uplifted experience that is cultiated through meditation.
 
-The four dignities are likewise represented by four animals: the tiger, the lion, the mythical garuda bird, and the dragon.
+### Meek
 
-Each corresponds to certain characteristics that belong to the character of a warrior, 
-as well (in my experience) to specific experiences found in meditation. 
+The first dignity Trungpa describes is Meekness, which is symbolized by the Tiger. 
+This is not Blake's Tygre of Fearful Symmetry or a Nature Channel predator.
+For Trungpa, the Tiger represents solidity, grounded awareness, and even gentleness.
+The Tiger makes his way confidently and alertly through the jungles of life. 
+He is relaxed and energized, seeing and respecting the world with self-sufficient modesty.
 
-Meekness is the first of the four dignitities, and it serves as their base. It is a feeling of solidity, of grounded awareness and gentleness.
-Meekness is represented by the tiger. The image is not an aggressive one, but it is the way in which the tiger steps through
-the jungle in full awareness, noticing everything that goes on around him. He is relaxed and energized, and has a sense of
-self-sufficiency fused with modesty. 
+The meditative state that I associate with the Tiger is one of groundedness. 
+It is the first of the four dignities that I invoke when I sit down to meditate.
+It is a "tight" practice, where effort is made to calm and focus the mind.
+I associate it with close attention to the breath and a relaxed downward gaze.
 
-In my mind, this corresponds to the feeling I have when I focus on the breath, on the bodily sensation of air going in and out.
-When I sit down to meditate, I begin by feeling a connection to the ground below me. The tension falls from my body, and I relax,
-supported by the earth.
+### Perky
 
-The second dignity is called "perky". It is the manifestation of unconditional cheerfulness and dignity. 
-In our normal life, we may be cheerful when things are going our way, and depressed or irritable if they are not.
-Manifesting the second dignity means being cheerful no matter what our outer circumstances.
-In Shambhala mythology, perkiness is associated with the lion.
+The second dignity is Perkiness. It is the manifestation of brightness, uprightness, and good cheer.
+In our normal life, we may be cheerful when things are going our way, and depressed when they are not.
+Perkiness is not like that. It is unconditionally cheerful.
 
-When I invoke perkiness, I have a feeling of upliftedness. Literally my spine straightens and my head stretches towards the sky. 
-My eyes lift higher and my awareness expands upward. In meekness, I connect to earth. In perkiness, I connect to heaven.
+In Shambhala mythology, perkiness is symbolized by the Lion.
+Manifesting the Lion means recognizing the indepenence of our mental states with outer circumstances.
 
-The third dignity is called "outrageousness" and is associated with the mythical garuda bird.
-Outrageousness is characterized by an enormous sense of space.
+When I invoke Perkiness in my meditation, I feel uplifted. My spine straightens and my head stretches towards the sky. 
+My gaze lifts higher, my eyes smile, and my awareness spreads.
 
-Outrageousness if the dignity of the garuda bird, soaring high above the world. Garuda represents a sense of great spaciousness. Focus becomes broader. My eyes open wider and awareness spreads throughout the space. Vision becomes panoramic. Fearlessness. No hope or fear.
+### Outrageous
 
-Last is the inscruitable dragon. This is the least obvious of the four dignities.
+The third dignity is "Outrageousness" and is associated with the Garuda, a mythical bird that hatches fullly formed.
+Outrageousness is characterized by a sense of great spaciousness.
+It has a sense of seeing further and clearer, of panoramic awareness. 
+When I invoke Garuda, I open my eyes wider and have a light touch and sense of freedom from concern.
 
-It is the culmination of the first three, but at the same time it has its own character. 
+### Inscruitable
 
-Inscruitability has a sense of playfulness and humor.
+The last of the four dignities is "Inscruitability", symbolized by the Dragon.
+Inscruitability is the fruition of the first three dignities.
+It represents a sense of naturalness, playfulness, and humor.
+The Dragon has a wholesomeness, authenticity, and fluidity of action that leaves no need for external validation.
 
-1. the state of inscruitability
-2. the expression
+Inscruitability does not have as obvious a correlate in meditaton as the first three dignities, but I have
+some sense of what it means. It is a sense of letting go of the deliberate practices of the first three.
+At this point, the first three have become natural and have melded into an organic expression of warriorship
+free from ego. The Dragon represents the beginning of mastery, where no specific action is necessary
+to manifest the Dharma, because it is expressed by one's very being.
 
-Genuineness and wholesomeness without the need for confirmation; without hesitation.
+### Living Drala
 
-In meditating on the dragon, I find a sense of jollyness. The whole drama of life on earth appears less seriously heavy and more fun.  
+When a warrior embodies the Four Dignities, he is said to have become 'living drala'. 
+This is the fruitition of meditation. Through it, one not only creates virtue and lucidity for oneself,
+but projects an environment of warmth and presence which is felt by the world.
 
-Expressing the truth, implying it with enlightened confidence rather than trying to spell it out or explain it.
+In this state, Trungpa said, "[one's] presence evokes the experience of the cosmic mirror"[^1].
+Being around someone who manifests "living drala" evokes an encounter with elemental reality,
+and so "Heaven and earth begin to dance"[^2].
 
-When a warrior embodies all four of these qualities, he is said to have become "living drala". "His presence evokes the experience of the cosmic mirror (p. 176). "Heaven and earth begin to dance" (p. 177)
 
+[^1]: Shambhala: The Sacred Path of the Warrior, p. 176
+[^2]: Ibid, p. 177
 
 [drala]: /2014-02-21-the-magic-of-drala
 [Shambhala: The Sacred Path of the Warrior]: 
