@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Four Dignities of Shambhala
-date: 2014-03-23
+date: 2014-03-30
 categories: dharma
 tags: shambhala
 ---
@@ -14,7 +14,8 @@ tags: shambhala
   or elemental reality. 
 </div>
 
-In the symbolism of Shambhala, four animals appear over and over again. 
+In the symbolism of Shambhala, four animals appear over and over again:
+The Tiger, the Lion, the Garuda, and the Dragon.
 Each represents one of the "four dignities" or noble attributes of the warrior. 
 The four dignities are one metaphor by which Trungpa identified the 
 awake and uplifted experience that is cultiated through meditation.
@@ -66,12 +67,13 @@ to manifest the Dharma, because it is expressed by one's very being.
 
 ### Living Drala
 
-When a warrior embodies the Four Dignities, he is said to have become 'living drala'. 
+When a warrior embodies the Four Dignities, he is said to have become "living drala". 
 This is the fruitition of meditation. Through it, one not only creates virtue and lucidity for oneself,
 but projects an environment of warmth and presence which is felt by the world.
 
-In this state, Trungpa said, "[one's] presence evokes the experience of the cosmic mirror"[^1].
-Being around someone who manifests "living drala" evokes an encounter with elemental reality,
+In this state, Trungpa said, "[one's] presence evokes the experience of the cosmic mirror"[^1] --
+the pure experience of reality without reference to ego.
+An encounter with "living drala" reveals the lucidity and vividness of life,
 and so "Heaven and earth begin to dance"[^2].
 
 
