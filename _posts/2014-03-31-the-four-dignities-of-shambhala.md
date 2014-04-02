@@ -7,14 +7,15 @@ tags: shambhala
 ---
 
 <div class='alert alert-info'>
-  This post is one in a series about the Shambhala teachings presented by Chogyam Trungpa.
+  This post is one in a series about the Shambhala teachings presented by 
+  <a href='https://en.wikipedia.org/wiki/Chogyam_Trungpa'>Chogyam Trungpa</a>.
   <br>
   In the previous post, I discussed the concept of 
   <em><a href='/blog/the-magic-of-drala'>drala</a></em>, 
   or elemental reality. 
 </div>
 
-In the symbolism of Shambhala, four animals appear over and over again:
+In the symbolism of [Shambhala], four animals appear over and over again:
 The Tiger, the Lion, the Garuda, and the Dragon.
 Each represents one of the "four dignities" or noble attributes of the warrior. 
 The four dignities are a metaphor by which Trungpa describes the 
@@ -75,5 +76,6 @@ the pure phenomena of reality, unfiltered by any self-interested agenda. When th
 [^1]: Shambhala: The Sacred Path of the Warrior, p. 176-177
 
 [drala]: /2014-02-21-the-magic-of-drala
-[Shambhala: The Sacred Path of the Warrior]: 
+[Shambhala]: https://en.wikipedia.org/wiki/Shambhala_Training
+[Shambhala: The Sacred Path of the Warrior]: http://www.amazon.com/Shambhala-Sacred-Path-Warrior-Classics/dp/159030702X/
 
