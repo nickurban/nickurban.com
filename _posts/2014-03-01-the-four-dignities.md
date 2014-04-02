@@ -67,15 +67,12 @@ When a warrior embodies the Four Dignities, he is said to have become "living dr
 This is the fruitition of meditation. Through it, one not only creates virtue and lucidity for oneself,
 but projects an environment of warmth and presence which is felt by the world.
 
-In this state, Trungpa said, "[one's] presence evokes the experience of the cosmic mirror"[^1] --
-the pure phenomena of reality, unfiltered by any self-interested agenda. 
+In this state, "[one's] presence evokes the experience of the cosmic mirror" --
+the pure phenomena of reality, unfiltered by any self-interested agenda. When that happens, Trungpa says, "Heaven and earth begin to dance."[^1]
 
 <!--- An encounter with "living drala" reveals the lucidity and vividness of life. -->
 
-When that happens, Trungpa says, "Heaven and earth begin to dance"[^2].
-
-[^1]: Shambhala: The Sacred Path of the Warrior, p. 176
-[^2]: Ibid, p. 177
+[^1]: Shambhala: The Sacred Path of the Warrior, p. 176-177
 
 [drala]: /2014-02-21-the-magic-of-drala
 [Shambhala: The Sacred Path of the Warrior]: 
