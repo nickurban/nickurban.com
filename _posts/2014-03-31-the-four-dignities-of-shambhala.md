@@ -10,7 +10,7 @@ tags: shambhala
   This post is one in a series about the Shambhala teachings presented by Chogyam Trungpa.
   <br>
   In the previous post, I discussed the concept of 
-  <em><a href='/2014-02-21-the-magic-of-drala'>drala</a></em>, 
+  <em><a href='/blog/the-magic-of-drala'>drala</a></em>, 
   or elemental reality. 
 </div>
 
