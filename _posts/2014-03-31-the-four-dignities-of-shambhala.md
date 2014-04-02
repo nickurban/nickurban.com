@@ -10,9 +10,8 @@ tags: shambhala
   This post is one in a series about the Shambhala teachings presented by 
   <a href='https://en.wikipedia.org/wiki/Chogyam_Trungpa'>Chogyam Trungpa</a>.
   <br>
-  In the previous post, I discussed the concept of 
-  <em><a href='/blog/the-magic-of-drala'>drala</a></em>, 
-  or elemental reality. 
+  In the <a href='/blog/the-magic-of-drala'>previous post</a>,
+  I discussed the concept of <em>drala</em> or elemental reality. 
 </div>
 
 In the symbolism of [Shambhala], four animals appear over and over again:
