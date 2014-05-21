@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automated Install Testing with Docker, VirtualBox, and Ansible
+title: Automated Install Testing with Docker, Ansible, and VirtualBox
 categories: tech
 tags: ansible deployment docker vagrant 
 ---
