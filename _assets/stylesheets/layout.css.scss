@@ -76,6 +76,12 @@ li {
   padding-bottom: 4px;
 }
 
+.title { margin-bottom: 0; }
+.metadata { 
+  color: #aaa; 
+  //.category { color: rgb(154, 68, 40); }
+}
+
 #category_index {
   h1 {
     text-transform: capitalize;

@@ -4,17 +4,17 @@ layout: default
 
 <article class="post">
   <header>
-    <h2>{{ page.title }}</h2>
+    <h2 class='title'>{{ page.title }}</h2>
 
-    <div class="date">
-      Published on {{ page.date | date_to_string }}
-    </div>
-
-    <section class='categories'>
-    {% if page.categories.size > 0 %}
-      Categories:
-      {{ page.categories | category_links }}
-    {% endif %}
+    <section class='metadata'>
+      {% if page.categories.size > 0 %}
+        <span class='categories'>
+        Categories:
+        {{ page.categories | category_links }}
+        </span>
+        |
+      {% endif %}
+      <span class='date'>{{ page.date | date_to_string }}</span>
     </section>
 
     <!--
