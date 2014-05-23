@@ -4,9 +4,8 @@ title: nickurban.com
 ---
 
 #blog
-  {% include categories.slim %}
 
-  h1 Blog
+  h1 Essays
   ul.posts
     | {% for post in site.posts %}
     |  <li><a href="{{ post.url }}">{{ post.title }}</a></li>

@@ -25,7 +25,7 @@ At this point, a docker container (rougly equivalent to a virtual machine) will 
 
 All in all, this setup works well. Using Docker cut a few minutes off our build-and-test time and made it easy to run multiple builds in parallel.
 
-Hopefully that whetted your appetite a bit. According to its authors, Docker is [not yet ready for production], but it's definitely a technology to watch in the coming year. If you want to try it out yourself, there's a nice [interactive tutorial] to get you going.
+Hopefully that whetted your appetite a bit. According to its authors, Docker is (as of May 2014) [not yet ready for production], but it's definitely a technology to watch in the coming year. If you want to try it out yourself, there's a nice [interactive tutorial] to get you going.
 
 [boot2docker]: http://docs.docker.io/installation/mac/
 [windows]: http://docs.docker.io/installation/windows/
