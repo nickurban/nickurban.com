@@ -18,7 +18,7 @@ In the symbolism of [Shambhala], four animals appear over and over again:
 The Tiger, the Lion, the Garuda, and the Dragon.
 Each represents one of the "four dignities" or noble attributes of the warrior. 
 The four dignities are a metaphor by which Trungpa describes the 
-awake and uplifted experience that is cultiated through meditation.
+awake and uplifted experience that is cultivated through meditation.
 
 ### Meek
 
