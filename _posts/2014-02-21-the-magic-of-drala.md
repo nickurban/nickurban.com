@@ -34,23 +34,23 @@ ususally call 'divine' or 'sacred'.
 
 Interestingly, that quality of experience is available to us whether or not we believe that it comes from a supernatural source. It may be a natural part of human consciousness.  The _drala_ that Trungpa describes, as I understand it, is exactly this 'divinity' of experience. 
 
-The experience of drala often feels supernatural, and it may sometimes be convenient to speak as if it were, but there is no need to _rationally assent_ that it is so.[^3] This is wonderful, for it makes the profound experience of life available to everyone, regardless of their beliefs.
+The experience of drala often feels supernatural, and it may be convenient to speak as if it were, but there is no need to _rationally assent_ that it is so.[^3] This is wonderful, for it makes the profound experience of life available to everyone, regardless of their beliefs.
 
 These teachings grow out of the Buddhist tradition,
 a tradition in which metaphysical questions are of secondary importance.[^4]
 The Buddha, when asked about some of the controverial metaphysical dilemmas of his day,
-famously [remained silent](http://en.wikipedia.org/wiki/The_unanswered_questions).[^5]
+famously [remained silent](http://en.wikipedia.org/wiki/The_unanswered_questions).
 Buddhist teachings are described as a raft which carries one across the river of life.
 "Gone... gone to the other shore," as the [Heart Sutra] says.
-Once one reaches the shore, to carry a raft further would be a hindrance.
+When one reaches the shore, to carry a raft further would be a hindrance.
 
-One puts down the boat of concepts and walks firmly on the ground of experience.
+There is the sun, the sky, the earth.
+One puts down the boat of concepts and dwells among the dralas.
 
 [^1]: [Shambhala: The Sacred Path of the Warrior](http://www.amazon.com/Shambhala-Sacred-Path-Warrior-Classics/dp/159030702X/), 1984, Shambhala Publications, p. 103
 [^2]: Ibid, p. 106.
 [^3]: As Laplace supposedly remarked to Napoleon, "Je n'avais pas besoin de cette hypothèse-là." -- [I had no need of that hypothesis](http://en.wikipedia.org/wiki/Pierre-Simon_Laplace#I_had_no_need_of_that_hypothesis).
 [^4]: When I speak of Buddhism, I speak only of my own experience and the teachings I have received, primarily from the Zen and Shambhala schools of the [Mahayana](http://en.wikipedia.org/wiki/Mahayana). 
-[^5]: I also think of Wittgenstein&rsquo;s thesis in the _Tractatus_, "Whereof one cannot speak, thereof one must be silent."
 
 [_Shambhala: The Sacred Path of the Warrior_]: http://www.amazon.com/Shambhala-Sacred-Path-Warrior-Classics/dp/159030702X/
 [Chogyam Trungpa]: http://en.wikipedia.org/wiki/Chogyam_Trungpa
