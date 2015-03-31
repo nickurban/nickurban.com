@@ -36,23 +36,15 @@ Interestingly, that quality of experience is available to us whether or not we b
 
 The experience of drala often feels supernatural, and it may sometimes be convenient to speak as if it were, but there is no need to _rationally assent_ that it is so.[^3] This is wonderful, for it makes the profound experience of life available to everyone, regardless of their beliefs.
 
-Divinity, in this interpretation, names a type of experience, not a belief.
-Disbelieving in theories about the origin or menaing of a divine experience does
-not negate the experience itself.
-
-These are teachings that grow out of the Buddhist tradition,
+These teachings grow out of the Buddhist tradition,
 a tradition in which metaphysical questions are of secondary importance.[^4]
 The Buddha, when asked about some of the controverial metaphysical dilemmas of his day,
 famously [remained silent](http://en.wikipedia.org/wiki/The_unanswered_questions).[^5]
-
-There are many sacred teachings in Buddhism, 
-but they are not articles of faith. 
-They are described as a raft which carries one across the river of life.
+Buddhist teachings are described as a raft which carries one across the river of life.
 "Gone... gone to the other shore," as the [Heart Sutra] says.
 Once one reaches the shore, to carry a raft further would be a hindrance.
 
-One abandons the boat of concepts to walk firmly on the ground of reality
-&mdash; to walk among the dralas.
+One puts down the boat of concepts and walks firmly on the ground of experience.
 
 [^1]: [Shambhala: The Sacred Path of the Warrior](http://www.amazon.com/Shambhala-Sacred-Path-Warrior-Classics/dp/159030702X/), 1984, Shambhala Publications, p. 103
 [^2]: Ibid, p. 106.
