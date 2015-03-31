@@ -36,34 +36,28 @@ Interestingly, that quality of experience is available to us whether or not we b
 
 The experience of drala often feels supernatural, and it may sometimes be convenient to speak as if it were, but there is no need to _rationally assent_ that it is so.[^3] This is wonderful, for it makes the profound experience of life available to everyone, regardless of their beliefs.
 
-Experiencing drala does not require blind faith, but disciplined practice. 
-We can find divinity by working with our minds in meditation.
+Divinity, in this interpretation, names a type of experience, not a belief.
+Disbelieving in theories about the origin or menaing of a divine experience does
+not negate the experience itself.
 
-If you are unfamiliar with Buddhism, this may all seem a bit odd. 
-If there are no gods, how can you experience them? 
-The answer is that 'divinity' is first and foremost the name for a 
-type of experience. Disbelieving in one of the theories about the 
-origin of that experience does not negate the experience itself.
-
-In the Buddhist tradition, enlightenment is the goal, 
-and meditative practice is the method. 
-Metaphysical questions are of secondary importance.[^4]
-That is why the Buddha, when asked about some of the controverial metaphysical dilemmas of his day,
+These are teachings that grow out of the Buddhist tradition,
+a tradition in which metaphysical questions are of secondary importance.[^4]
+The Buddha, when asked about some of the controverial metaphysical dilemmas of his day,
 famously [remained silent](http://en.wikipedia.org/wiki/The_unanswered_questions).[^5]
 
-There are many sacred teachings, or _dharma_ in Buddhism, 
-but they are not meant to be articles of faith. 
+There are many sacred teachings in Buddhism, 
+but they are not articles of faith. 
 They are described as a raft which carries one across the river of life.
-"Gone... gone to the other shore" as the [Heart Sutra] says.
-Once one reaches the shore, to carry the raft further would be a hindrance.
-Instead of focusing on the teachings, which are ultimately just another narrative, 
-one dwells directly in elemental reality. One dwells among the dralas.
+"Gone... gone to the other shore," as the [Heart Sutra] says.
+Once one reaches the shore, to carry a raft further would be a hindrance.
 
+One abandons the boat of concepts to walk firmly on the ground of reality
+&mdash; to walk among the dralas.
 
 [^1]: [Shambhala: The Sacred Path of the Warrior](http://www.amazon.com/Shambhala-Sacred-Path-Warrior-Classics/dp/159030702X/), 1984, Shambhala Publications, p. 103
 [^2]: Ibid, p. 106.
 [^3]: As Laplace supposedly remarked to Napoleon, "Je n'avais pas besoin de cette hypothèse-là." -- [I had no need of that hypothesis](http://en.wikipedia.org/wiki/Pierre-Simon_Laplace#I_had_no_need_of_that_hypothesis).
-[^4]: When I speak of Buddhism, I speak only of my own experience and the teachings I have received, primarily from the Zen and Shambhala schools of the [Mahayana](http://en.wikipedia.org/wiki/Mahayana). Other schools may have different teachings.
+[^4]: When I speak of Buddhism, I speak only of my own experience and the teachings I have received, primarily from the Zen and Shambhala schools of the [Mahayana](http://en.wikipedia.org/wiki/Mahayana). 
 [^5]: I also think of Wittgenstein&rsquo;s thesis in the _Tractatus_, "Whereof one cannot speak, thereof one must be silent."
 
 [_Shambhala: The Sacred Path of the Warrior_]: http://www.amazon.com/Shambhala-Sacred-Path-Warrior-Classics/dp/159030702X/
